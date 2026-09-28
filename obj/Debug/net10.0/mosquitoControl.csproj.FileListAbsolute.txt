@@ -1,0 +1,14 @@
+/home/revic/mosquitoControl/bin/Debug/net10.0/mosquitoControl
+/home/revic/mosquitoControl/bin/Debug/net10.0/mosquitoControl.deps.json
+/home/revic/mosquitoControl/bin/Debug/net10.0/mosquitoControl.runtimeconfig.json
+/home/revic/mosquitoControl/bin/Debug/net10.0/mosquitoControl.dll
+/home/revic/mosquitoControl/bin/Debug/net10.0/mosquitoControl.pdb
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.GeneratedMSBuildEditorConfig.editorconfig
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.AssemblyInfoInputs.cache
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.AssemblyInfo.cs
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.csproj.CoreCompileInputs.cache
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.dll
+/home/revic/mosquitoControl/obj/Debug/net10.0/refint/mosquitoControl.dll
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.pdb
+/home/revic/mosquitoControl/obj/Debug/net10.0/mosquitoControl.genruntimeconfig.cache
+/home/revic/mosquitoControl/obj/Debug/net10.0/ref/mosquitoControl.dll
